@@ -25,6 +25,14 @@
     <br>
     <a href="ex09.php">ex09.php</a>
     <br>
+    <a href="ex10_get.html">ex10_get.html</a>
+    <br>
+    <a href="ex10_get.php">ex10_get.php</a>
+    <br>
+    <a href="ex10_post.html">ex10_post.html</a>
+    <br>
+    <a href="ex10_post.php">ex10_post.php</a>
+    <br>
 </body>
 </html>
 
